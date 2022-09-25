@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "title": "Lorem Ipsum on lihtsalt proovitekst",
+            "content": "On teada-tuntud fakt, et lehe kujunduse vaatamisel juhib selle loetav sisu lugeja tähelepanu kõrvale. Lorem Ipsumi kasutamise mõte seisneb selles, et sellel on enam-vähem normaalne jaotus tähti, mitte nagu korduvatel sõnadel sisu siin, sisu siin, nähes välja nagu tavaline loetav tekst."
+        },
+        {
+            "title": "Saadaval on mitmeid erinevaid Lorem Ipsumi variante, kuid enamik neist on läbi",
+            "content": "Vastupidiselt tavaarusaamale, Lorem Ipsum ei ole lihtsalt suvaline tekst. See sai alguse osakesest klassikalisest ladina kirjandusest, mis on pärit aastast."
+        }
+    ]
+}

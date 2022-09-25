@@ -1,0 +1,9 @@
+{
+    "header": "Next.js Blog multilingue",
+    "languages": {
+        "en-US": "Anglaise",
+        "ee": "Estonienne",
+        "fr": "Français"
+    },
+    "read_more": "Lire la suite"
+}
